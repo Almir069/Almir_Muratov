@@ -1,0 +1,28 @@
+html{background-color: blue;}
+body{
+    width: 40%;
+    background-color: orange;
+    border: 3px solid black;
+    margin: 0 auto;
+    padding-bottom: 2%;
+}
+#headline{
+    color: blue;
+    text-align: center;
+    text-shadow: 2px 3px black;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+p{
+    width: 90%;
+    margin: 0 auto;
+}
+ul{
+    margin-left: 2.5%;
+}
+button{
+    display: block;
+    margin: 15px auto;
+}
